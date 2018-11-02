@@ -2,5 +2,5 @@
 layout: slide
 title: "warning about the next slide:"
 
-the next slide has a picture of a butt.
+nevermind
 use the left arrow to go back.
